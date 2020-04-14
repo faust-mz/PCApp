@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PCAPP</string>
+    <string name="msje_bienvenid">Bienvenid@!</string>
+    <string name="ing_PCA">Ingresar PCA</string>
+    <string name="btn_medir">Medir</string>
+    <string name="txt_Resultado"> Resultado </string>
+    //on Manifest
+    <string name="msje_Resultado_pos"> PCA Correcto!  </string>
+    <string name="msje_Resultado_neg"> PCA Inorrecto!  </string>
+</resources>
